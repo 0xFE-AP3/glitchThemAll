@@ -1,5 +1,5 @@
 # Glitch Them All
-Scarica il file e mandami un writeup se riesci a risolvere la CTF :)
+Scarica il file e mandami un writeup SE riesci a risolvere la CTF :)
 
 ## TOP TEN SOLVERS
 |                |NOME                          |TIMESTAMP                         |
