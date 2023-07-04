@@ -12,7 +12,7 @@ Inviare a 0xfe_ap3 su discord
 |2         |Erge|1.07.2023 17.07|INTENDED|
 |3         |oswald641|2.07.2023 3.23|BOTH|
 |4         |Tanuki|3.07.2023 1.57|INTENDED|
-|5         ||||
+|5         |Dralute|4.07.2023 13.48|INTENDED|
 |6         ||||
 |7         ||||
 |8         ||||
